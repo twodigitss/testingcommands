@@ -10,3 +10,6 @@ i hope it does.
 > sudo pacman -Sy postgresql`
 2. Print current version of the package
 > postgres --version
+new lines does not work as intended.
+
+HELP git did not save anything
