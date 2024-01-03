@@ -10,4 +10,6 @@ i hope it does.
 > sudo pacman -Sy postgresql`
 2. Print current version of the package
 > postgres --version
+
+track this lol
 asdqwe
