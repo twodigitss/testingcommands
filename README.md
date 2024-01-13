@@ -12,3 +12,6 @@ i hope it does.
 > postgres --version
 
 track this lol
+asdqwe
+asdasdasdasd
+asdasdasdasda
