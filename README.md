@@ -18,7 +18,7 @@ https://github.com/Rosettea/bunnyfetch.
 1. Clone the repo locally with ` git clone `
 2. Change directory to the folder with ` cd `
 3. Install with  `make install`
->      Uninstall with `make uninstall`
+>  Uninstall with `make uninstall`
 4. Run as  `kfetch`
 
 ## What this fetch can do?
