@@ -19,16 +19,16 @@ https://github.com/Rosettea/bunnyfetch.
 2. Change directory to the folder with ` cd `<br>
 3. Install as binary with  `make install`<br>
 4. Run as  `kfetch`<br>
-5. For uninstall use `make uninstall`<br>
+5. For uninstalling use `make uninstall`<br>
 
 ## What this fetch can do?
->   Set custom ascii arts<br>
->   Enable/Disable default and custom ascii art<br>
->   Randomize colors in both information and default ascii art <br>
->   Reorganize information to your like<br>
->   Randomize expressions in bunnies faces<br>
->   Customize (add or remove/ enable or disable) random phrases<br>
->   Customize glyphs in information display<br>
+>   - Set custom ascii arts<br>
+>   - Enable/Disable default and custom ascii art<br>
+>   - Randomize colors in both information and default ascii art <br>
+>   - Reorganize information to your like<br>
+>   - Randomize expressions in bunnies faces<br>
+>   - Customize (add or remove/ enable or disable) random phrases<br>
+>   - Customize glyphs in information display<br>
 
 ## Future plans
 > - make an aur package when it's stable
