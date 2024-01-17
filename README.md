@@ -1,4 +1,4 @@
-# KFetch
+#README.md
 The purpose of this fetch alternative is creating a fetch tool that does not need to be "static" all the time, 
 printing just one set of colors and ascii art staying as the same until you change it manually. <br>
 This tool offers to randomize the color set, randomizes the ascii art (if you have not changed it manually of course)
@@ -20,6 +20,11 @@ https://github.com/Rosettea/bunnyfetch.
 3. Install as binary with  `make install`<br>
 4. Run as  `kfetch`<br>
 5. For uninstalling use `make uninstall`<br>
+
+## Supported distros
+- Arch linux and derivated distros
+- Debian and derivated distros
+- Redhat and derivated distros
 
 ## What this fetch can do?
 >   - Set custom ascii arts<br>
