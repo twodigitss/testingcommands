@@ -36,7 +36,8 @@ https://github.com/Rosettea/bunnyfetch.
 >   - Customize glyphs in information display<br>
 
 ## Future plans
-> - make an aur package when it's stable
++ make an aur package when it's stable
++ make an deb package when it's stable
 
 ## author notes
 This fetch tool uses colors of your system to colorize the output.
