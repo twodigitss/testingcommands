@@ -40,8 +40,7 @@ https://github.com/Rosettea/bunnyfetch.
 + make an deb package when it's stable
 
 ## author notes
-why this name? well, it has bunnies and "delic" comes from an old username of mine, that also matches "psychodelic",<br> 
-where the colors are always changing. <br>
+why this name? well, it has bunnies and "delic" comes from an old username of mine, that also matches "psychodelic", whose colors are always changing. <br>
 This fetch uses colors of your system to colorize the output.
 I recommend to use a colorscheme for your Xresources file, like rosepine, dracula, nord, etc. <br>
 It also may look weird depending of the font, monospace looks weird. I recommend nerd fonts or some other.<br> 
