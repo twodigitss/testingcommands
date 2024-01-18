@@ -24,7 +24,7 @@ https://github.com/Rosettea/bunnyfetch.
 ## Supported distros
 - Arch linux and derivated distros
 - Debian and derivated distros
-- Redhat and derivated distros
+- Redhat and derivated distros (hopefully)
 
 ## What this fetch can do?
 >   - Set custom ascii arts<br>
@@ -40,7 +40,9 @@ https://github.com/Rosettea/bunnyfetch.
 + make an deb package when it's stable
 
 ## author notes
-This fetch tool uses colors of your system to colorize the output.
+why this name? well, it has bunnies and "delic" comes from an old username of mine, that also matches "psychodelic",<br> 
+where the colors are always changing. <br>
+This fetch uses colors of your system to colorize the output.
 I recommend to use a colorscheme for your Xresources file, like rosepine, dracula, nord, etc. <br>
 It also may look weird depending of the font, monospace looks weird. I recommend nerd fonts or some other.<br> 
 https://www.nerdfonts.com/font-downloads
