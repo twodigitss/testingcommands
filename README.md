@@ -55,7 +55,7 @@ https://www.nerdfonts.com/font-downloads
 - Indent the phrase to left instead right on custom ascii arts<br>
 - Enable/disable color randomization<br>
 - If color randomization is disabled, you can set the order of the colors manually<br>
-<br>
+
 ## Previous (base) options:<br>
 - Enables/disables random phrases at the top of the fetch<br>
 - Enables/disables every ascii art<br>
