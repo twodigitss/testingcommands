@@ -46,3 +46,22 @@ This fetch uses colors of your system to colorize the output.
 I recommend to use a colorscheme for your Xresources file, like rosepine, dracula, nord, etc. <br>
 It also may look weird depending of the font, monospace looks weird. I recommend nerd fonts or some other.<br> 
 https://www.nerdfonts.com/font-downloads
+
+
+
+
+# Added more customization options to display the information!!
+## this version added:<br>
+- Indent the phrase to left instead right on custom ascii arts<br>
+- Enable/disable color randomization<br>
+- If color randomization is disabled, you can set the order of the colors manually<br>
+<br>
+## Previous (base) options:<br>
+- Enables/disables random phrases at the top of the fetch<br>
+- Enables/disables every ascii art<br>
+- Enables/Disables icons from NerdFonts.com<br>
+- Shows your distro icon instead the stock one in "icons" list<br>
+- Selection of icons that are shown alsongside display variable<br>
+- Select the order of the information that is displayed<br>
+- Prioritize "custom" or "default" ascii art<br>
+
